@@ -105,7 +105,7 @@ git branch
 Open the file:
 
 ```text
-hello.py
+app.py
 ```
 
 Modify it by adding your name.
